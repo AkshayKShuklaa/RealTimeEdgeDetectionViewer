@@ -1,0 +1,22 @@
+# Android build
+/.gradle/
+/build/
+gradle-app.setting
+/local.properties
+/.idea/
+/captures/
+
+# App module
+/app/build/
+/gl/build/
+/jni/.cxx/
+
+# Web
+/web/node_modules/
+/web/dist/
+
+# Misc
+*.iml
+.DS_Store
+Thumbs.db
+

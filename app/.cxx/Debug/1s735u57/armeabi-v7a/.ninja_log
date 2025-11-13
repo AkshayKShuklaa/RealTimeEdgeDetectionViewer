@@ -1,0 +1,27 @@
+# ninja log v5
+4	9844	7847452737598909	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+9854	10463	7847452743813096	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+0	61	0	clean	c25698301683df1f
+57	11212	7847501009407665	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+11213	11704	7847501014511181	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+1	46	0	clean	c25698301683df1f
+192	36862	7847530567166864	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+36864	37485	7847530573982223	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+1	39	0	clean	c25698301683df1f
+69	9116	7847541308654032	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+9119	9803	7847541315631320	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+2	36	0	clean	c25698301683df1f
+577	27862	7847551829302792	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+27870	29369	7847551845095213	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+9	80	0	clean	c25698301683df1f
+106	19690	7847553827164610	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+19695	20615	7847553837194491	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+1	30	0	clean	c25698301683df1f
+30	7227	7847558869740140	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+7229	7703	7847558874481189	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+1	41	0	clean	c25698301683df1f
+74	13959	7847561518066441	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+13962	14626	7847561524889652	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677
+1	61	0	clean	c25698301683df1f
+28	8411	7847579896992267	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	a42f7530fbd562b3
+8412	8957	7847579902340154	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/1s735u57/obj/armeabi-v7a/libedge_processor.so	86f476a6f029b677

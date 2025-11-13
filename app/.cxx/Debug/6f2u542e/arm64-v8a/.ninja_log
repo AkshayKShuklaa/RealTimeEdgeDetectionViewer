@@ -1,0 +1,12 @@
+# ninja log v5
+15	27743	7847434302096932	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	5d6f1fe433b03a24
+27752	28303	7847434307826288	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/6f2u542e/obj/arm64-v8a/libedge_processor.so	76d98800c0f111f2
+0	29	0	clean	c25698301683df1f
+137	10811	7847436107593756	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	5d6f1fe433b03a24
+10813	11285	7847436112445359	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/6f2u542e/obj/arm64-v8a/libedge_processor.so	76d98800c0f111f2
+0	28	0	clean	c25698301683df1f
+218	13434	7847438185030359	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	5d6f1fe433b03a24
+13438	14025	7847438191413734	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/6f2u542e/obj/arm64-v8a/libedge_processor.so	76d98800c0f111f2
+0	28	0	clean	c25698301683df1f
+80	8006	7847439238630217	CMakeFiles/edge_processor.dir/src/edge_processor.cpp.o	5d6f1fe433b03a24
+8007	8491	7847439243543849	D:/Real Time Edge Detection Viewer/app/build/intermediates/cxx/Debug/6f2u542e/obj/arm64-v8a/libedge_processor.so	76d98800c0f111f2

@@ -1,0 +1,3 @@
+D:/Real Time Edge Detection Viewer/app/.cxx/Debug/6f2u542e/armeabi-v7a/CMakeFiles/edge_processor.dir
+D:/Real Time Edge Detection Viewer/app/.cxx/Debug/6f2u542e/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Real Time Edge Detection Viewer/app/.cxx/Debug/6f2u542e/armeabi-v7a/CMakeFiles/rebuild_cache.dir

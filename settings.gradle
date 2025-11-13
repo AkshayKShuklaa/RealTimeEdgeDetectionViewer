@@ -1,0 +1,4 @@
+rootProject.name = "RealTimeEdgeDetectionViewer"
+include(":app")
+include(":gl")
+include ':sdk'
