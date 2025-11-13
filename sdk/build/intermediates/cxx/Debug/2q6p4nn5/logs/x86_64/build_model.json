@@ -27,9 +27,6 @@
     "variantName": "debug",
     "isDebuggableEnabled": true,
     "validAbiList": [
-      "armeabi-v7a",
-      "arm64-v8a",
-      "x86",
       "x86_64"
     ],
     "buildTargetSet": [
@@ -157,6 +154,7 @@
         "rootBuildGradleFolder": "D:\\Real Time Edge Detection Viewer",
         "sdkFolder": "C:\\Users\\shukl\\AppData\\Local\\Android\\Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
+        "ideBuildTargetAbi": "x86_64,arm64-v8a",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },
